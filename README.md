@@ -1,2 +1,2 @@
 # DAW-IPOP
-![Sapalomera([https://picsum.photos/800/600](https://www.sapalomera.cat/wp-content/themes/SaPalomeraTheme/img/logo-institut-sapalomera.png)https://www.sapalomera.cat/wp-content/themes/SaPalomeraTheme/img/logo-institut-sapalomera.png)
+<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
