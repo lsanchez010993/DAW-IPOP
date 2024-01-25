@@ -3,9 +3,20 @@
   
 ## INFORME PERSONAL D’ORIENTACIÓ PROFESSIONAL
 
-### NOM:
+### NOM: Luis Sanchez
 
-### CICLE FORMATIU:
+### CICLE FORMATIU: 1ºr DAW
+
+# Identificació del títol
+
+## Nom:	Desenvolupament d’aplicacions web
+
+## Nivell:	GS
+
+## Família Professional:	Informàtica i comunicacions
+
+## Durada:	2000
+
   
 
 
