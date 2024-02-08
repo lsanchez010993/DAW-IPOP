@@ -9,13 +9,13 @@
 
 # Identificació del títol
 
-## Nom:	Desenvolupament d’aplicacions web
+### Nom:	Desenvolupament d’aplicacions web
 
-## Nivell:	GS
+### Nivell:	GS
 
-## Família Professional:	Informàtica i comunicacions
+### Família Professional:	Informàtica i comunicacions
 
-## Durada:	2000
+### Durada:	2000
 
   
 
